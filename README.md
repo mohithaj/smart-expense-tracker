@@ -4,17 +4,23 @@ A command-line Expense Tracker application built using Python and SQLite that he
 
 ## Overview
 
-Managing personal expenses is an important part of financial planning. This project provides a lightweight expense management system where users can add and track their expenses while storing data persistently using an SQLite database.
+
+Smart Expense Tracker is a Python-based personal finance management application that helps users record, organize, and analyze their expenses. The application stores data in an SQLite database and provides multiple ways to view and manage spending records, including category-wise filtering, monthly reports, analytics, editing, and deletion of expenses.
+
 
 ## Features
 
-* Add new expense records
+* Add new expense records with relevant details
 * View all recorded expenses
-* Store expense data using SQLite
-* Organized and modular code structure
-* User-friendly command-line interface
-* Persistent data storage
-* Easy to extend with additional features
+* Filter expenses by category
+* View expenses month-wise
+* Generate analytics and expense summaries
+* Edit existing expense records
+* Delete unwanted expense entries
+* Store data persistently using SQLite database
+* User-friendly menu-driven command-line interface
+* Modular and maintainable code structure
+
 
 ## Technologies Used
 
